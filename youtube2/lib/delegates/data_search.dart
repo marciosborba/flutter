@@ -41,6 +41,13 @@ class DataSearch extends SearchDelegate<String> {
     else
       return FutureBuilder<List>(
         future: suggestions(query),
+        builder: (context, snapshot),{
+          if(!snapshot.hasData){
+            return Center(
+              child: CircularProgressIndicator(),
+              )
+          }
+        }
       );
   }
 
