@@ -1,0 +1,10 @@
+projeto_slidy/lib/main.dart
+projeto_slidy/lib/app/app_module.dart
+projeto_slidy/lib/app/app_widget.dart
+projeto_slidy/lib/app/modules/home/home_module.dart
+projeto_slidy/lib/app/app_controller.dart
+projeto_slidy/lib/app/modules/home/home_page.dart
+projeto_slidy/test/app/app_controller_test.dart
+projeto_slidy/test/app/modules/home/home_page_test.dart
+projeto_slidy/lib/app/modules/home/home_controller.dart
+projeto_slidy/test/app/modules/home/home_controller_test.dart
