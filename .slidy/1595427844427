@@ -1,0 +1,10 @@
+slidy_mobx/lib/main.dart
+slidy_mobx/lib/app/app_module.dart
+slidy_mobx/lib/app/app_widget.dart
+slidy_mobx/lib/app/modules/home/home_module.dart
+slidy_mobx/lib/app/app_controller.dart
+slidy_mobx/lib/app/modules/home/home_page.dart
+slidy_mobx/test/app/modules/home/home_page_test.dart
+slidy_mobx/test/app/app_controller_test.dart
+slidy_mobx/lib/app/modules/home/home_controller.dart
+slidy_mobx/test/app/modules/home/home_controller_test.dart
